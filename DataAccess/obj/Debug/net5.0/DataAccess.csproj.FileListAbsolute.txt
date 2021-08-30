@@ -1,0 +1,6 @@
+C:\Users\alioz\source\repos\NorthwindBackend\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\alioz\source\repos\NorthwindBackend\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\alioz\source\repos\NorthwindBackend\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\alioz\source\repos\NorthwindBackend\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alioz\source\repos\NorthwindBackend\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\alioz\source\repos\NorthwindBackend\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
